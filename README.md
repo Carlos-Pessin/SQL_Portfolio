@@ -1,2 +1,6 @@
 # SQL_Portfolio
-SQL Queries Created from training
+This repository was created to set examples of SQL queries created by me in my recent trainings.
+
+### Sources
+- DNC Training
+- LinkedIn Learning Training
